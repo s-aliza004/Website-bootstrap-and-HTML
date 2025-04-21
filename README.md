@@ -20,8 +20,6 @@ Professional UI inspired by real-world tech blogs
 HTML, Bootstrap, Responsive Web Design
 
 
-
-🔖 #WebDevelopment #HTML #Bootstrap #FrontEndDevelopment #TechWebsite #CodeCave #UIUXDesign
 ![screencapture-s-aliza004-github-io-Website-bootstrap-and-HTML-2025-04-21-23_51_54](https://github.com/user-attachments/assets/e7fb804d-bc97-41cd-a020-078905276052)
 
 
